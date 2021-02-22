@@ -1,6 +1,18 @@
 `Media,Examples`
 
-#### Raw Graph
+# Raw Graph
+
+# Title 1
+
+## Title 2
+
+### Title 3
+
+#### Title 4
+
+##### Title 5
+
+###### Title 6
 
 It is the graphical representation of the Raw data
 
