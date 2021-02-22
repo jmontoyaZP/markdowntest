@@ -14,7 +14,7 @@
 
 ###### Title 6
 
-It is the graphical representation of the Raw data
+It is the graphical representation of the Raw data. Modified by Jose.
 
 ![](RAW.png)
 
